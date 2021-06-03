@@ -1,7 +1,7 @@
 # Módulo 2 - SQL día 4 semana 5
 
 ## Crear algunas tablas, modificar sus columnas, eliminar columnas
-![Captura de Pantalla](./Evidencia.png)
+![Captura de Pantalla](./Captura.png)
 
 ### Crear Base de Datos:
      create database Vehiculos character set utf8;
