@@ -1,4 +1,4 @@
-# Módulo 2 - SQL día 4 semana 5
+# Módulo 2 - SQL día 4 semana 6
 
 ## Crear algunas tablas, modificar sus columnas, eliminar columnas
 ![Captura de Pantalla](./Captura.png)
