@@ -1,0 +1,26 @@
+create database Vehiculos character set utf8;
+     use Vehiculos;
+     
+     create table Moto (
+     id_Moto int auto_increment,
+     marca varchar(20),
+     modelo varchar(20),
+     año int,
+     cilindrada int,
+     primary key(id_Moto)
+     );
+     
+     create table Camioneta(
+     id_Camioneta int auto_increment,
+     marca varchar(20),
+     modelo varchar(20),
+     año int,
+     cilindrada int,
+     primary key(id_Camioneta)
+     );
+     
+alter table Moto add column color varchar(20);
+alter table Camioneta add column capacidadCarga double;
+alter table Moto modify cilindrada double;
+alter table Moto drop column marca;
+alter table Camioneta drop column año;
