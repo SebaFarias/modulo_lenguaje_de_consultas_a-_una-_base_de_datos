@@ -8,3 +8,5 @@ Ejercicios del 2do módulo del curso "Desarrollo de aplicaciones móviles Androi
 - [Día 2 semana 7 - Cuarto día](./SQL/08-06-2021)
 - [Día 3 semana 7 - Quinto día](./SQL/09-06-2021)
 - [Día 4 semana 7 - Sexto día](./SQL/10-06-2021)
+- [Día 5 semana 7 - Séptimo día](./SQL/11-06-2021)
+- [Día 1 semana 8 - Octavo día](./SQL/14-06-2021)
