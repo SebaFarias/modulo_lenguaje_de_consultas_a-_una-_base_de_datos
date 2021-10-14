@@ -7,10 +7,10 @@ Según lo visto en clase crear y realizar lo solicitado:
 - Cambiar el tipo de dato a un campo de la tabla.
 - Eliminar un campo de cada tabla creada.
 
-[Respuesta](./Control.txt)
+[Respuesta](https://github.com/SebaFarias/modulo_lenguaje_de_consultas_a-_una-_base_de_datos/blob/master/SQL/04-06-2021/Control.txt)
 
 ## Ejercicio
-![Captura](./Captura.png)
+![Captura](https://raw.githubusercontent.com/SebaFarias/modulo_lenguaje_de_consultas_a-_una-_base_de_datos/master/SQL/04-06-2021/Captura.png)
 
 Crear una base de datos, con las siguientes tablas:
 
